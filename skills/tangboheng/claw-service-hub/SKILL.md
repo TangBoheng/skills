@@ -1,7 +1,7 @@
 ---
 name: claw-service-hub
 description: "Service marketplace: publish data as services, consume hub services"
-homepage: https://github.com/openclaw/claw-service-hub
+homepage: https://github.com/TangBoheng/Claw-Service-Hub
 metadata:
   openclaw:
     emoji: "🔌"
